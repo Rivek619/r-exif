@@ -45,7 +45,12 @@ No images, metadata, or GPS information are uploaded, stored, or transmitted to 
 
 ## Screenshots
 
-Coming Soon.
+<img width="1311" height="523" alt="image" src="https://github.com/user-attachments/assets/ce40a537-ff31-42c7-8732-d0c7a7104488" />
+
+<img width="1659" height="673" alt="image" src="https://github.com/user-attachments/assets/f8c798e7-7937-4418-958a-9803dd2ccb70" />
+
+
+<img width="1713" height="832" alt="image" src="https://github.com/user-attachments/assets/a834a599-534b-4f88-8a0d-9f6080ec097f" />
 
 ## Author
 
